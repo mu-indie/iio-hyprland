@@ -78,6 +78,8 @@ Note that iio-hyprland uses the `hyprctl` keyword `device:touchdevice:transform`
 Should automatically rotate all Tablets and Touch Devices from `hyprctl devices`.
 Thank you to Desktop31 for fetching the `hyprctl devices` output.
 
+rotation-via-hyprctl-eval approach by ThorTuwy
+
 ## Collaborators
 
 [<img src="https://github.com/ForgotMyPasswd.png" width="30px;"/>](https://github.com/{{ForgotMyPasswd}}) ForgotMyPasswd
